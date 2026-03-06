@@ -2,7 +2,7 @@ function Footer() {
     const anoAtual = new Date().getFullYear();
     
     return (
-      <footer style={{ textAlign: 'center', padding: '5px', borderTop: '1px solid #ccc', backgroundColor: '#7B68EE' }}>
+      <footer style={{ textAlign: 'center', padding: '5px', borderTop: '1px solid #ccc', backgroundColor: '#7B68EE', color: 'white' }}>
         <p>&copy; {anoAtual} TechSolutions</p>
         <div>
           <span style={{ margin: '0 10px' }}>Facebook</span>

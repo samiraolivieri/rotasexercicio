@@ -1,9 +1,9 @@
 function Home() {
     return (
         <>
-            <h1>Bem-vindo à TechSoluções!</h1>
+            <h1>Bem-vindo(a) à TechSolutions!</h1>
 
-            <p>Seja muito bem-vindo ao nosso portal. É um prazer receber sua visita!</p>
+            <p>Seja muito bem-vindo(a) ao nosso portal. É um prazer receber sua visita!</p>
 
             <p>
                 Este site foi criado para apresentar o que há de melhor em tecnologia e informática.
