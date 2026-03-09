@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "nome": "Placa de Vídeo RTX 4060",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/462198/placa-de-video-rtx-4060-ti-ex-galax-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing-46isl8md8aex_1684873456_original.jpg",
+      "descricao": "Performance extrema para jogos e renderização 3D."
+    },
+    {
+      "id": 2,
+      "nome": "Processador Intel i9",
+      "imagem": "https://waz.vteximg.com.br/arquivos/ids/215426-1000-1000/122591-1-Processador_Intel_Core_i9_11900K_LGA1200_8_nucleos_350GHz_BX8070811900K_122591.jpg?v=637577433983230000",
+      "descricao": "O poder de processamento que sua workstation precisa."
+    },
+    {
+      "id": 3,
+      "nome": "Monitor 144Hz Gamer",
+      "imagem": "https://tse3.mm.bing.net/th/id/OIP.BHleDVKBuHxRpOh62aFn2wHaFm?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "descricao": "Fluidez total para suas partidas e trabalho diário."
+    },
+    {
+      "id": 4,
+      "nome": "Teclado Mecânico RGB",
+      "imagem": "https://m.media-amazon.com/images/I/71y73nqoHqL._AC_SL1500_.jpg",
+      "descricao": "Durabilidade e precisão em cada clique."
+    },
+
+        {
+          "id": 5,
+          "nome": "SSD NVMe 1TB Kingston",
+          "imagem": "https://tse4.mm.bing.net/th/id/OIP.0toQuAoQdbGn8WoVVxCniwHaFp?rs=1&pid=ImgDetMain&o=7&rm=3",
+          "descricao": "Velocidade ultra rápida de leitura e gravação para seu sistema."
+        },
+        {
+          "id": 6,
+          "nome": "Roteador TP-Link Wi-Fi 6",
+          "imagem": "https://tse2.mm.bing.net/th/id/OIP.al-NIFZYGTMHpoIYwFrvNgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+          "descricao": "Conexão estável e de longo alcance para múltiplos dispositivos."
+        },
+        {
+          "id": 7,
+          "nome": "Memória RAM 16GB DDR5",
+          "imagem": "https://m.media-amazon.com/images/I/61Mc6kTOz+L._AC_.jpg",
+          "descricao": "Multitarefa sem travamentos com a nova tecnologia DDR5."
+        },
+        {
+          "id": 8,
+          "nome": "Headset HyperX Cloud II",
+          "imagem": "https://th.bing.com/th/id/R.3b2b14daf42d072097673036426429aa?rik=GS378Aks5rOAhA&riu=http%3a%2f%2fwww.techpowerup.com%2fimg%2f15-02-09%2fHX_cloud_II_RED.jpg&ehk=ToNi78Niu%2bzXmlzXp8fMjTF06X1PmuzehUuLb7qwzLw%3d&risl=&pid=ImgRaw&r=0",
+          "descricao": "Conforto e som surround 7.1 para imersão total."
+        },
+        {
+          "id": 9,
+          "nome": "Placa-Mãe ASUS ROG Strix",
+          "imagem": "https://tse1.mm.bing.net/th/id/OIP.-7h6TNKY0avSOinFI-a-YwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+          "descricao": "A base robusta e confiável para o seu setup de alto nível."
+        },
+        {
+          "id": 10,
+          "nome": "Nobreak Intelbras 1200VA",
+          "imagem": "https://plantec.com/arquivos/produtos/imagens_adicionais/original/FOTO_e532f8e7c83271f3b757693314399e5b.jpg",
+          "descricao": "Proteção essencial contra quedas de energia e surtos elétricos."
+        },
+        {
+          "id": 11,
+          "nome": "Cadeira Ergonômica Office",
+          "imagem": "https://product-hub-prd.madeiramadeira.com.br/261435825/images/a2747c3b-1c59-421c-99e8-c705248f49cc0703fb841e85bff5a1f8f44be8.jpg",
+          "descricao": "Conforto garantido para longas jornadas de trabalho ou estudo."
+        },
+        {
+          "id": 12,
+          "nome": "Webcam Logitech C920",
+          "imagem": "https://www.bhphotovideo.com/images/images2500x2500/Logitech_960_000764_C920_832460.jpg",
+          "descricao": "Resolução Full HD para reuniões e transmissões ao vivo."
+        }
+      
+  ]

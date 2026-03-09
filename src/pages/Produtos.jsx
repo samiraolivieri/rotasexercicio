@@ -1,6 +1,9 @@
+import produtos from "../data/produtos.json"
+import Card from "../components/Card"
+
 function Produtos() {
     return (
-        <>
+        <div className="container">
             <h1>Nossos Produtos</h1>
 
             <p>
@@ -15,21 +18,19 @@ function Produtos() {
                 durabilidade.
             </p>
 
-            <h3>Confira alguns de nossos itens:</h3>
-            <ul>
-                <li>Notebooks de Alta Performance (Workstations)</li>
-                <li>Servidores Rack e Torre para Empresas</li>
-                <li>Monitores UltraWide e 4K Profissionais</li>
-                <li>Teclados Mecânicos e Mouses de Alta Precisão</li>
-                <li>Roteadores Mesh e Access Points Wi-Fi 6</li>
-                <li>Switches Gerenciáveis e Patch Panels</li>
-                <li>Headsets com Cancelamento de Ruído para Call Center</li>
-                <li>Webcams Full HD e Sistemas de Videoconferência</li>
-                <li>Unidades de Armazenamento SSD, NVMe e NAS</li>
-                <li>Nobreaks e Módulos de Isolamento Estabilizados</li>
-            </ul>
-        </>
+            <h3>Confira nosso catálogo completo:</h3>
 
+            <div className="grid">
+                {produtos.map(produto => (
+                    <Card
+                        key={produto.id}
+                        titulo={produto.nome}
+                        texto={produto.descricao}
+                        imagem={produto.imagem}
+                    />
+                ))}
+            </div>
+        </div>
     )
 }
 
