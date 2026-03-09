@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Menu from './components/Menu'
 import Footer from './components/Footer'
-import Produtos from './pages/produtos'
+import Produtos from './pages/Produtos'
 import Empresa from './pages/Empresa'
 import Contato from './pages/Contato'
 import Home from './pages/Home'
