@@ -25,7 +25,7 @@ function Contato() {
                 
                 
                 <div style={{ minWidth: '280px' }}>
-                    <h3>Informações de Contato com a Empresa</h3>
+                    <h3>Informações de Contato com a Empresa:</h3>
                     <p><strong>Email:</strong> contato@techsolutions.com</p>
                     <p><strong>Telefone:</strong> (21) 0000-0000</p>
                     <p><strong>Endereço:</strong> Avenida Império das Rosas, 62</p>
